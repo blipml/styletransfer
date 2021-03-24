@@ -7,3 +7,5 @@ This repo contain style transfer experiments.
   + https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
   + https://laptrinhx.com/visualizing-filters-and-feature-maps-in-convolutional-neural-networks-using-pytorch-2672659800/
   + https://arxiv.org/pdf/1508.06576.pdf
+
+  ![](data/outputs/nightmares.png?raw=true)
